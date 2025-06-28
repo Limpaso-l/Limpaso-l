@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Limpaso-l
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning html, CSS and javascript
+- 👀 I’m a software developer 
+- 🌱 I’m currently working on some projects.
 - 💞️ I’m looking to collaborate on web development & software engineering 
 - 📫 How to reach me. on WhatsApp:+254757358237
 - 😄 Pronouns: ...He😊
